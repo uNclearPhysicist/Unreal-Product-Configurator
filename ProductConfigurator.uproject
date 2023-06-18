@@ -3,5 +3,9 @@
 	"EngineAssociation": "5.2",
 	"Category": "",
 	"Description": "",
-	"Enterprise": true
+	"Enterprise": true,
+	"TargetPlatforms": [
+		"Mac",
+		"Windows"
+	]
 }
